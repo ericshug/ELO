@@ -1,0 +1,12 @@
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\EssentialMapHack.exe.config
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\EssentialMapHack.exe
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\EssentialMapHack.pdb
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\EloBuddy.dll
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\EloBuddy.SDK.dll
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\bin\Release\SharpDX.dll
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\obj\Release\EssentialMapHack.Properties.Resources.resources
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\obj\Release\EssentialMapHack.csproj.GenerateResource.Cache
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\obj\Release\EssentialMapHack.exe
+C:\Users\Administrator.Eric-PC\Desktop\EssentialMapHack\obj\Release\EssentialMapHack.pdb
